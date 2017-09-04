@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlogReader</string>
+
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_message">Error Getting data from Blog</string>
+    <string name="no_items" />
+    <string name="blog_post">Blog Post</string>
+    <string name="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+</resources>
